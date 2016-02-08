@@ -1,0 +1,10 @@
+Number of arguments: 5 arguments.
+Argument List: ['test.py', 'hallo', 'mein', 'lieber', 'schatz']
+hallo mein lieber schatz 
+schatz lieber mein hallo 
+hallo schatz lieber mein 
+hallo mein schatz lieber 
+
+lieber schatz mein hallo 
+mein lieber schatz hallo 
+hallo mein lieber schatz 
